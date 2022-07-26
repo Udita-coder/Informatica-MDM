@@ -1,0 +1,16 @@
+big data : data in video, audio, json, etc. formats and collected in data lake(Amazon S3) 
+MDM(DATA DE-DUPLICATION)
+
+SIF(Service Integration Framework) Session:
+Modes to share data:
+1.Batch mode
+2.Pub Sub Mode
+3.API Led Connectivity: real time
+
+base object : stores golden copy
+rowid_object: primary key
+XREF(cross reference): contains data from different sources, XREF is link between source key and MRM key.
+
+put API is very important in API Led Connectivity.
+
+

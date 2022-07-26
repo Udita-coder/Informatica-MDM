@@ -1,0 +1,31 @@
+Data: raw information
+a. Unstructured data: data in email, etc.
+b. structured-Transactional data: through transaction e.g. online purchashing, etc.
+c. structured-Metadata Data: data about data e.g. document(information about the content of the data not the content )
+d. structured-Master Data: mantaining data about the entities
+non-transactional data,
+
+e. structured-Hierarchical Data: relationship between two entities e.g. employee-manager, manager-senior manager, chain hospital, etc.
+
+mdm components :
+data cleansing/address standardization
+de-duplication/matching
+matching engine
+cross referencing
+survivorship trust framework
+Unmerge
+match/merge workflow
+exception workflow
+entity data maintenance UI
+reporting
+audit trail and lineage maintainence
+entity hierarchy
+security
+inbound integration with source system
+outbound integration with target system
+data model
+lookup-drop down list of values
+
+ORS : creating schema
+data model : collection of tables and their relationships.
+stage- load-match-automerge
